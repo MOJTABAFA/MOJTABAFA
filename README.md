@@ -59,7 +59,7 @@ With a background in **Computer Science**, **Strategic Management**, and hands-o
 
 ---
 
-### 🧠 [Advanced Biomedical Imaging for Ophthalmology - Harvard AI Lab (2023)](https://scholar.google.com/citations?user=yourGoogleScholarID)
+### 🧠 [Advanced Biomedical Imaging for Ophthalmology - Harvard Ophthalmology AI Lab (2022)](https://scholar.google.com/citations?user=yourGoogleScholarID)
 
 *Objective*: Applied deep learning to **3D OCT image** analysis, improving accuracy in ophthalmic diagnostics and therapeutic guidance.
 
