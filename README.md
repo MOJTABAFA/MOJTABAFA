@@ -2,7 +2,7 @@
 
 # 👨‍🔬 Mojtaba S. Fazli - Lead AI & Computer Vision Scientist
 
-📍 *San Francisco, CA* | ✉️ *[mfazli@stanford.edu](mailto:mfazli@stanford.edu)* | 🌐 *[Personal Website](https://web.stanford.edu/~mfazli/)* | 🖇️ *[LinkedIn](https://www.linkedin.com/in/mojtabafazli/)*
+📍 *San Francisco, CA* | ✉️ *[mfazli@stanford.edu](mailto:mfazli@stanford.edu)* | 🌐 *[Stanford Research Portfolio](https://web.stanford.edu/~mfazli/)* | 🖇️ *[LinkedIn](https://www.linkedin.com/in/mojtabafazli/)*
 
 ---
 
