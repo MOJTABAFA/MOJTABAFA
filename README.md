@@ -29,8 +29,8 @@ With a background in **Computer Science**, **Strategic Management**, and hands-o
 
 ## 🎓 Education
 
-- **Postdoctoral Research Fellow** - Stanford University
-- **Postdoctoral Research Fellow** - Harvard University
+- **Postdoctoral Research Fellow** - *Stanford University*
+- **Postdoctoral Research Fellow** - *Harvard University*
 - **Ph.D. in Computer Science** - *University of Georgia*  
 - **Doctorate in Strategic Management** - *University of Montesquieu Bordeaux IV*  
 - **MSc. & BSc. in Artificial Intelligence and Robotics** - *University of Tehran*  
